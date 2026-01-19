@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+uv.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Data & Results (exclude large files)
+src/data/*.json
+src/data/*.csv
+src/results/*.csv
+src/results/*.json
+src/results/*.log
+!src/results/.gitkeep
+
+# Model downloads (very large!)
+*.bin
+*.safetensors
+*.onnx
+*.pt
+*.pth
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+Thumbs.db
+
+# HuggingFace cache
+.cache/
+models/
