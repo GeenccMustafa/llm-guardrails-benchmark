@@ -404,7 +404,7 @@ def main():
         st.markdown("---")
         
         # Best practices
-        st.subheader("🎯 Best Practices")
+        st.subheader("Best Practices")
         st.markdown("""
         1. **Layer your guardrails**: Use Combined guardrail for maximum protection
         2. **Monitor continuously**: Set up alerts for unusual blocking patterns
