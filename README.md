@@ -874,25 +874,6 @@ MIT License - see LICENSE file for details
 - **HuggingFace** for datasets
 - **Streamlit** for the dashboard framework
 
----
-
-## 📞 Contact & Support
-
-- **Issues**: Open a GitHub issue
-- **Questions**: Check troubleshooting section first
-- **Updates**: Watch repository for updates
-
----
-
-## 🚦 Status
-
-- ✅ **Working**: All core features functional
-- 🟡 **Beta**: Dashboard (feedback welcome)
-- 🔄 **In Progress**: Additional guardrails
-- 📋 **Planned**: Cloud deployment guide
-
----
-
 ## 📊 Benchmark Stats
 
 Typical benchmark run:
